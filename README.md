@@ -7,7 +7,7 @@ Dieses Repository enthält einen einfachen Code, um ein Schachbrett auf einer We
 - meta name="viewport" content="width=device-width, initial-scale=1.0": Definiert die Breite der Webseite entsprechend der Gerätebreite und skaliert diese.
 
 ### CSS ###
-Die board.php -Datei enthält CSS-Stile im <style> -Tag, um das Aussehen des Schachbretts anzupassen.
+Die Brett.php -Datei enthält CSS-Stile im <style> -Tag, um das Aussehen des Schachbretts anzupassen.
 
   - .container: Zentriert den Inhalt vertikal und horizontal auf der Webseite.
     
@@ -26,7 +26,7 @@ Die board.php -Datei enthält CSS-Stile im <style> -Tag, um das Aussehen des Sch
 
 ### PHP Schleife Erklärung ###
 
-Der PHP-Code innerhalb der board.php -Datei verwendet eine Schleife, um das Schachbrett dynamisch zu generieren.
+Der PHP-Code innerhalb der Brett.php -Datei verwendet eine Schleife, um das Schachbrett dynamisch zu generieren.
 
 Erklärung: 
 - Die äußere Schleife (for ($row = 0; $row < 8; $row++)) läuft von 0 bis 7 (< 8), um 8 Zeilen für die Tabelle zu erstellen (<tr>).
