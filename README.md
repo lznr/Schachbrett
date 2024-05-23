@@ -1,4 +1,4 @@
-### Schachbrett mit HTML und PHP ###
+### Schachbrett mit PHP ###
 
 Dieses Repository enthält einen einfachen Code, um ein Schachbrett auf einer Webseite anzuzeigen.
 
